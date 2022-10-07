@@ -1,0 +1,6 @@
+{
+  "appId": "com.daaroyalvuememory",
+  "appName": "Vue Memories",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
